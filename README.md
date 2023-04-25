@@ -126,7 +126,7 @@ Ref No : 212221230045
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-data=pd.read_csv("/content/IRIS (1).csv")
+data=pd.read_csv("/content/IRIS.csv")
 data.head()
 
 name=["sepal_length","sepal_width","petal_length","petal_width"]
@@ -159,6 +159,8 @@ print(confusion_matrix(y_test,predictions))
 print(classification_report(y_test,predictions))
 ```
 ## OUTPUT 
+![output](https://github.com/jhansi21005096/Experiment-4---Implementation-of-MLP-with-Backpropagation/blob/main/out1.png)
+![output]()
 ![output]()
 ![output]()
 ![output]()
