@@ -160,9 +160,9 @@ print(classification_report(y_test,predictions))
 ```
 ## OUTPUT 
 ![output](https://github.com/jhansi21005096/Experiment-4---Implementation-of-MLP-with-Backpropagation/blob/main/out1.png)
-![output]()
-![output]()
-![output]()
-![output]()
+![output](https://github.com/jhansi21005096/Experiment-4---Implementation-of-MLP-with-Backpropagation/blob/main/out2.png)
+![output](https://github.com/jhansi21005096/Experiment-4---Implementation-of-MLP-with-Backpropagation/blob/main/out3.png)
+![output](https://github.com/jhansi21005096/Experiment-4---Implementation-of-MLP-with-Backpropagation/blob/main/out4.png)
+![output](https://github.com/jhansi21005096/Experiment-4---Implementation-of-MLP-with-Backpropagation/blob/main/out5.png)
 ## RESULT
 Thus a Multilayer Perceptron with Backpropagation is implemented for Multi classification.
